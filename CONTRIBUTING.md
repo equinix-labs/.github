@@ -9,9 +9,9 @@ filing an issue. Regardless of whether you think the issue is with the project i
 having trouble using the project, feel free to file an issue on the repo.
 
 **If you have a feature request, please file an issue before making a PR.** Everyone's time is
-incredibley valuable, so if you have an idea for a feature, please file an issue. This way we
+incredibly valuable, so if you have an idea for a feature, please file an issue. This way we
 can have a discussion with you, and the community, about the design, before you have sunk a
-bunch of time into developing it. 
+bunch of time into developing it.
 
 **You do not need to file an issue for small fixes.** If you are fixing a typo or refactoring
 a bit of code, you likely don't need to file an issue. This is a judgement call, and *sometimes*
@@ -39,7 +39,7 @@ questions! The maintainers are there to help you!
 
 Equinix Opensource follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
 of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
-in this origanization.
+in this organization.
 
 [Contributor Covenant Code of Conduct]: CODE_OF_CONDUCT.md
 
